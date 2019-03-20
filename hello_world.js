@@ -1,1 +1,5 @@
-alert('hello openclassroom');
+
+
+ function sayHello() {
+   alert('hello openclassroom');
+ }
